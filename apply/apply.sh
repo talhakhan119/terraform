@@ -1,5 +1,3 @@
-cd ..
-
 terraform init --upgrade 
 
 terraform validate 
